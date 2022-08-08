@@ -1,2 +1,2 @@
-# happy
+# Assignments
 my first repository
