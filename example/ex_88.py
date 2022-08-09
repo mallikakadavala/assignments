@@ -7,7 +7,8 @@ marital_status = "true"                               # bool
 no_of_kids = None                                     # None type variable
 job_status = None                                     # None type variable
 living_in_usa = "texas"                               # string
-businesses = "false"                                  # bool
+businesses = "false"      
+working_status = "Not Working"                            # bool
 
 description = "this is description"
 #about Mrs Kirthana 
@@ -23,4 +24,5 @@ print(type(no_of_kids))
 print (job_status)
 print (living_in_usa)
 print (businesses)
+print (working_status)
 
